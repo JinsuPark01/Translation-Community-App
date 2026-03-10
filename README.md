@@ -1,6 +1,6 @@
 ## 🌐 Translation Community App
 
-🔗 Repository  
+🔗 Original Repository
 https://github.com/Android-Programming-Classroom-Project/FrontEnd
 
 👨‍💻 Role  
